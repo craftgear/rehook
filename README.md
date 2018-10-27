@@ -1,4 +1,4 @@
-# rehooks
+# rehook
 Hooks wrapper, keeps functions pure
 
 ## Usage
