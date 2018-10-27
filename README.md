@@ -1,5 +1,5 @@
 # rehook
-Hooks wrapper, keeps functions pure
+React Hooks wrapper, keeps functions pure
 
 ## Usage
 ```
