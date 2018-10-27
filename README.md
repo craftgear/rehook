@@ -1,10 +1,10 @@
 # rehooks
-## Hooks wrapper, keeps functions pure
+Hooks wrapper, keeps functions pure
 
 ## Usage
 ```
 import React, { useState } from 'react';
-import rehooks from './rehooks';
+import rehook from './rehook';
 
 const Counter = ({ count, setCount }) => {
   return (
@@ -15,5 +15,5 @@ const Counter = ({ count, setCount }) => {
   );
 };
 
-export default rehooks([{ hook: useState, name: 'count', init: 0 }])(Counter);
+export default rehook([{ hook: useState, name: 'count', init: 0 }])(Counter);
 ```
