@@ -1,6 +1,6 @@
 {
   "name": "rehook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hooks wrapper, keeps functions pure",
   "main": "index.js",
   "scripts": {
