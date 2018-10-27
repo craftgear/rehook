@@ -1,0 +1,23 @@
+{
+  "name": "rehooks",
+  "version": "0.0.1",
+  "description": "Hooks wrapper, keeps functions pure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftgear/rehooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Shunsuke Watanabe <craftgear@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craftgear/rehooks/issues"
+  },
+  "homepage": "https://github.com/craftgear/rehooks#readme"
+}
